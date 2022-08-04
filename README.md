@@ -7,7 +7,7 @@
 <br>
 😎 17 years
 <br>
-beginner in: <img width="20" heigth="20" src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif">python,<img width="50" heigth="50" src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966">Java.
+beginner in: <img width="20" heigth="20" src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif">python,<img width="50" heigth="50" src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966">Java,<img width="35" heigth="35" src="https://cdn.80.lv/api/upload/vendor/367/5d2747bf11e72.jpg">Construct2
 <br>
 “Corinthians se sente, não se explica.”
 <br>
